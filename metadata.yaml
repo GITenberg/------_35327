@@ -1,0 +1,33 @@
+_repo: '------_35327'
+_version: 0.1.0
+alternative_title: Amerika Monogatari
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nagai, Kafu
+    aliases:
+    - Nagai, Sokichi
+    - 永井荷風
+    - Kafu, Nagai
+    birthdate: 1879
+    deathdate: 1959
+    gutenberg_agent_id: '37138'
+    url: http://www.gutenberg.org/2009/agents/37138
+description: ''
+gutenberg_issued: '2011-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35327'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'PL'
+- !lcsh 'Authors, Japanese -- 20th century -- Travel -- United States'
+- !lcsh 'Nagai, Kafu, 1879-1959 -- Travel -- United States'
+title: あめりか物語
+url: http://www.gutenberg.org/ebooks/35327
